@@ -25,7 +25,7 @@ SECRET_KEY = '^m&ie*ql&3vu_xa&5j5gsly*0r6w(rrs^*4ntmzvci(+%1n7l$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1';´'dilohero.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'dilohero.pythonanywhere.com']
 
 
 # Application definition
